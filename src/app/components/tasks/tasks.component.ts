@@ -1,5 +1,4 @@
 import { Component, OnInit } from '@angular/core';
-import { takeLast } from 'rxjs';
 import { TaskService } from '../../services/task.service';
 import { Task } from '../../Task';
 
